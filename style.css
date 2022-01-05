@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.rob {
+    padding-left: 60px;
+}
+.hello {
+    width: 50%;
+    float: left;
+    padding-top: 70px;
+}
+.hello-img {
+    width: 50%;
+    float: left;
+}
+img.ebo {
+    width: 100%;
+}
+h1.hello-im {
+    color: #363958;
+    font-weight: 700;
+    font-size: 60px;
+
+}
+samp.coler-rob {
+ 
+    color: #FF8367;
+    
+    font-size: 60px;
+ 
+}
+p.in-massa {
+    padding-bottom: 35px;
+}
+a.hire-me {
+    color: white;
+    background-image: linear-gradient( 
+-90deg, #15416d, #14e6e6);
+    padding: 22px 60px;
+    text-decoration: none;
+    border-radius: 5px;
+    
+}
+
+/* about section*/
+
+.about {
+    width: 50%;
+    float: left;
+}
+.about-section {
+    width: 50%;
+    float: left;
+}
+img.ebo1 {
+    width: 100%;
+}
+.down {
+    padding-left: 100px;
+    padding-top: 75px;
+}
+h1.h1-about {
+    font-size: 40px;
+    color: #363958;
+}
+p.lorem {
+    padding-bottom: 30px;
+    color: #585151;
+    line-height: 26px;
+}
+a.cv-button {
+    color: white;
+    background-image: linear-gradient( 
+-90deg, #15416d, #14e6e6);
+    letter-spacing: 1px;
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
