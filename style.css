@@ -77,3 +77,193 @@ a.cv-button {
     padding: 20px 30px;
     border-radius: 5px;
 }
+.father {
+    width: 100%;
+}
+section.section2 {
+    width: 100%;
+}
+.working-p {
+    padding: 150px;
+    display: inline-block;
+}
+h1.lastet-wor {
+    font-size: 40px;
+    padding-left: 200px;
+    color: #363958;
+}
+span.las {
+    color: #F46060;
+}
+/*LASTET WORKING PROJECT*/
+.power {
+    border-radius: 15px;
+    margin-left: 60px;
+    height: 360px;
+    display: inline-block;
+    box-shadow: 5px 5px 40px rgb(112 108 108);
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+}
+.creativ {
+    border-radius: 15px;
+    margin-left: 60px;
+    height: 360px;
+    display: inline-block;
+    box-shadow: 5px 5px 40px rgb(112 108 108);
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+}
+.hard {
+    border-radius: 15px;
+    margin-left: 60px;
+    height: 360px;
+    display: inline-block;
+    box-shadow: 5px 5px 40px rgb(112 108 108);
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+}
+img.image4 {
+    width: 100%;
+}
+img.image5 {
+    width: 100%;
+}
+img.image8 {
+    width: 100%;
+}
+section.last-working {
+    padding-left: 100px;
+    text-align: center;
+}
+h3.poerw-x {
+    color: #363958;
+    font-size: 21px;
+}
+p.ipsum {
+    line-height: 1.6;
+    color: #4e4d4d;
+}
+/*work inqutry*/
+.WORK.INQUIRY {
+    background-image: url("img/Group_33094_1.png");
+    
+    text-align: center;
+    display: inline-block;
+    
+    
+    background-size: cover;
+    width: 909px;
+    height: 225px;
+    margin: 60px 0px 10px 193px;
+}
+img.group {
+    padding-left: 210px;
+    /* text-align: center; */
+    width: 100%;
+}
+h1.inqu {
+    margin-top: 100px;
+    color: white;
+    float: left;
+    padding-left: 100px;
+    font-size: 40px;
+}
+a.lets {
+    background-image: linear-gradient(
+-90deg, #F56460, #e61b36);
+    color: white;
+    padding: 19px 51px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    border-radius: 6px;
+    margin: 31px 92px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.chat {
+    padding-top: 110px;
+}
+.worin {
+    padding-top: 200px;
+    display: inline-block;
+}
+.conta {
+    padding: 150px;
+    text-align: center;
+}
+span.conate {
+    color: #363958;
+    font-size: 60px;
+}
+span.if-youare {
+    color: #61626c;
+    font-size: 20px;
+}
+.adderes-bar {
+    width: 20%;
+    float: left;
+    padding-left: 60px;
+}
+.icon {
+    color: #3E64FF;
+    text-align: center;
+    font-size: 50px;
+}
+h2.add {
+    font-size: 30px;
+    color: #363958;
+    text-align: center;
+}
+p.dhaka {
+    text-align: center;
+    color: #5a5656;
+}
+p.kushtia {
+    color: #3E64FF;
+    text-align: center;
+    font-weight: bold;
+}
+.adderes-bar {
+    box-shadow: 3px 3px 11px rgb(226 221 221);
+}
+.pra-STAY {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    padding: 100px;
+    padding-left: 20px;
+}
+h2.stsay {
+    color: #8F8E94;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+h1.design {
+    color: #363958;
+    text-align: center;
+    font-size: 40px;
+}
+.img-icon {
+    padding-left: 300px;
+    width: 50%;
+}
+img.futter-i {
+    width: 8%;
+}
+img.futter-i {
+    padding-left: 30px;
+}
+p.all-rights {
+    font-size: 20px;
+    color: #6a6a70;
+    text-align: center;
+}
